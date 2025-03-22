@@ -24,3 +24,8 @@ Enter the text or URL in the input field.
 Click the Generate button.
 
 Download or scan the QR code.
+
+
+
+
+
