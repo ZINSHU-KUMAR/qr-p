@@ -1,6 +1,7 @@
 🚀 QR Code Generator
 A simple and efficient web application that generates QR codes from text or URLs. This tool allows users to quickly create scannable QR codes, making it easy to share links, contact details, or any custom text.
 
+
 🔥 Features
 ✅ Generate QR codes from text, URLs, or other data.
 
@@ -10,10 +11,12 @@ A simple and efficient web application that generates QR codes from text or URLs
 
 📱 Mobile-friendly and easy to use.
 
+
 ⚙️ Tech Stack
 HTML, CSS, JavaScript (Frontend)
 
 QR code generation library (e.g., qrcode.js or qrious)
+
 
 🌟 How to Use
 Enter the text or URL in the input field.
