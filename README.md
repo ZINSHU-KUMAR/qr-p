@@ -23,7 +23,11 @@ Enter the text or URL in the input field.
 
 Click the Generate button.
 
-Download or scan the QR code.
+Download or scan the QR code
+
+
+.![mmk](https://github.com/user-attachments/assets/76a5f775-fad4-4f42-833b-2a14dc3dfd92)
+
 
 
 
