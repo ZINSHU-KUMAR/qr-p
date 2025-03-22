@@ -25,6 +25,8 @@ Click the Generate button.
 
 Download or scan the QR code
 
+![Screenshot 2025-03-22 011158](https://github.com/user-attachments/assets/4c681873-f5a5-48d6-b035-e056b01795ca)
+
 
 .![mmk](https://github.com/user-attachments/assets/76a5f775-fad4-4f42-833b-2a14dc3dfd92)
 
